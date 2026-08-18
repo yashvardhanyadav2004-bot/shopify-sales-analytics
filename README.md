@@ -1,7 +1,6 @@
 # 🛍️ Shopify Sales Analytics
-
 ### An Interactive Power BI Dashboard for Sales, Customer & Product Analysis
-
+<img width="874" height="491" alt="image" src="https://github.com/user-attachments/assets/dceecac4-91b2-4f23-9d41-61e013442118" />
 ## 📌 Project Overview
 
 Shopify Sales Analytics is an interactive Business Intelligence dashboard developed using Microsoft Power BI.
@@ -30,6 +29,7 @@ The dashboard transforms Shopify sales transaction data into meaningful business
 - Interactive Data Visualization
 
 ## 📊 Dashboard Pages
+<img width="874" height="491" alt="image" src="https://github.com/user-attachments/assets/204a7b35-41c9-4248-a4f9-15e51f4733d3" />
 
 ### 1. Executive Sales Overview
 Provides an overall view of:
@@ -42,6 +42,7 @@ Provides an overall view of:
 - Orders by Hour
 - Daily Revenue Trends
 
+<img width="872" height="489" alt="image" src="https://github.com/user-attachments/assets/d825c846-b1d8-4f9c-af82-2e85b281f889" />
 ### 2. Customer Analytics
 Provides insights into:
 - New Customers
@@ -51,6 +52,7 @@ Provides insights into:
 - Top Customers by Revenue
 - Customers by City
 
+<img width="874" height="495" alt="image" src="https://github.com/user-attachments/assets/c70e43d4-c234-427d-a764-b90c99373720" />
 ### 3. Product Performance & Sales Insights
 Analyses:
 - Total Products
@@ -59,7 +61,8 @@ Analyses:
 - Revenue by Product Type
 - Orders by Product Type
 - Average Order Value by Product Type
-
+  
+<img width="876" height="491" alt="image" src="https://github.com/user-attachments/assets/778fa6fe-edcb-490f-ae19-7d4619ea63e1" />
 ### 4. Customer Value & Retention
 Analyses:
 - Repeat Purchase Rate
@@ -69,12 +72,14 @@ Analyses:
 - Revenue per Customer
 - Returning Customer Revenue Share
 
+<img width="875" height="478" alt="image" src="https://github.com/user-attachments/assets/e16024b6-62ff-41ec-a252-e089ef9ec0d7" />
 ### 5. Executive Business Summary
 Provides:
 - Dynamic Business Insights
 - Executive Summary
 - Business Recommendations
-
+  
+<img width="866" height="483" alt="image" src="https://github.com/user-attachments/assets/8438de4f-e837-4a5b-b1c6-4da4aab5f1a8" />
 ### 6. Order & Transaction Details
 Provides detailed transaction-level information including:
 - Customer ID
@@ -85,6 +90,7 @@ Provides detailed transaction-level information including:
 - Quantity
 - Payment Gateway
 - Total Revenue
+<img width="873" height="488" alt="image" src="https://github.com/user-attachments/assets/433f41d8-a04c-4a6f-b12d-5fc381b88f80" />
 
 ## 📈 Key Dashboard Metrics
 
